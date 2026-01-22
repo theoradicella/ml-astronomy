@@ -45,16 +45,16 @@ Our schedule is as follows. [Here is a public calendar](https://calendar.google.
 
 
 <!-- CALENDAR:START -->
-1. **2026, Mar 11, 08:30am - 12:30pm**
-2. **2026, Mar 18, 08:30am - 12:30pm**
-3. **2026, Mar 25, 08:30am - 12:30pm**
-4. **2026, Apr 01, 08:30am - 12:30pm**
-5. **2026, Apr 08, 08:30am - 12:30pm**
-6. **2026, Apr 15, 08:30am - 12:30pm**
-7. **2026, Apr 29, 08:30am - 12:30pm**
-8. **2026, May 06, 08:30am - 12:30pm**
-9. **2026, May 13, 08:30am - 12:30pm**
-10. **2026, May 20, 08:30am - 12:30pm**
+1. **2026, Mar 11, 08:30am - 12:30pm**. LAB910 (U9a).
+2. **2026, Mar 18, 08:30am - 12:30pm**. LAB910 (U9a).
+3. **2026, Mar 25, 08:30am - 12:30pm**. LAB910 (U9a).
+4. **2026, Apr 01, 08:30am - 12:30pm**. LAB910 (U9a).
+5. **2026, Apr 08, 08:30am - 12:30pm**. LAB910 (U9a).
+6. **2026, Apr 15, 08:30am - 12:30pm**. LAB910 (U9a).
+7. **2026, Apr 29, 08:30am - 12:30pm**. LAB910 (U9a).
+8. **2026, May 06, 08:30am - 12:30pm**. LAB910 (U9a).
+9. **2026, May 13, 08:30am - 12:30pm**. LAB910 (U9a).
+10. **2026, May 20, 08:30am - 12:30pm**. LAB910 (U9a).
 <!-- CALENDAR:END -->
 
 ## Setup
