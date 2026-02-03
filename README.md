@@ -71,9 +71,7 @@ Our schedule is as follows. [Here is a public calendar](https://calendar.google.
 
 Each lecture has an exercise at the end (actually, most of the time in class is dedicated to completing these problems!). At the end of the class, you will have to submit your codes showcasing what you've done on these problems. There will then be an oral exam to verify that you have appropriately understood the course material. The outcome will be provided as a *passed* / *not passed* statement (no numbers).
 
-You do not need to submit assignments after every lecture. Please share them all together at the end of the course, when you are ready. See [here for detailed instructions](examsubmission.md).
-
-To submit your codes, register on github.com, create a new **private** repository called `machinelearning4physics_bicocca_2026_solutions`, upload your files, share it with the two of us (usernames `dgerosa` and `UPDATE`), and send us an email when you are done.  We will then arrange the date of the oral exam. 
+You do not need to submit assignments after every lecture. Please share them all together at the end of the course, when you are ready.  To submit your codes, register on github.com, create a new **private** repository called `machinelearning4physics_bicocca_2026_solutions`, upload your files, share it with the two of us (usernames `dgerosa` and `UPDATE`). See [here for detailed instructions](examsubmission.md). Please send us an email when you are done, we will then arrange the date of the oral exam. 
 
 
 
