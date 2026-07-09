@@ -1,0 +1,24 @@
+# Core scientific stack
+numpy
+scipy
+matplotlib
+pandas
+tqdm
+
+# Astronomy / astrostatistics
+astropy
+astroML
+
+# Machine learning
+scikit-learn
+
+# MCMC / sampling
+emcee
+pymc
+corner
+dynesty
+ultranest
+
+# Notebooks
+jupyter
+ipykernel
